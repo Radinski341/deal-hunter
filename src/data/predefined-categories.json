@@ -1,0 +1,22 @@
+[
+    {
+      "displayName": "Electronics",
+      "similarCategories": ["electronics", "gadgets", "tech", "computers"]
+    },
+    {
+      "displayName": "Home & Kitchen",
+      "similarCategories": ["home", "kitchen", "appliances", "furniture"]
+    },
+    {
+      "displayName": "Fashion",
+      "similarCategories": ["clothing", "shoes", "accessories", "apparel"]
+    },
+    {
+      "displayName": "Books",
+      "similarCategories": ["books", "literature", "novels", "magazines"]
+    },
+    {
+      "displayName": "Sports & Outdoors",
+      "similarCategories": ["sports", "outdoors", "fitness", "camping"]
+    }
+  ]

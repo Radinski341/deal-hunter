@@ -1,0 +1,32 @@
+[
+  {
+    "id": "all",
+    "name": "All Deals",
+    "slug": "all",
+    "description": "Browse all discount products across categories"
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Gaming accessories, audio equipment, and tech gadgets"
+  },
+  {
+    "id": "computers",
+    "name": "Computers",
+    "slug": "computers",
+    "description": "Gaming PCs, components, and monitors"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen & Dining",
+    "slug": "kitchen",
+    "description": "Small appliances and kitchen essentials"
+  },
+  {
+    "id": "streaming",
+    "name": "Streaming Equipment",
+    "slug": "streaming",
+    "description": "Microphones, stream decks, and creator tools"
+  }
+]

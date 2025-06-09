@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "STGAubron Gaming PC Desktop Computer",
+      "description": "High-performance gaming desktop with Intel Core i5, 16GB RAM, 512GB SSD, and NVIDIA GTX graphics. Features RGB lighting and premium cooling system.",
+      "price": "$374.55",
+      "oldPrice": "$429.99",
+      "imageUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "High-end gaming PC with RGB lighting",
+      "amazonUrl": "https://www.amazon.com/dp/B08L5W7KTR?tag=techdeals-20",
+      "category": "gaming",
+      "rating": "4.5",
+      "reviewCount": 127,
+      "discount": "15% OFF",
+      "badge": "Hot Deal",
+      "features": ["Intel Core i5", "16GB RAM", "RGB Lighting", "Gaming Ready"]
+    },
+    {
+      "id": 2,
+      "title": "Sony WH-1000XM5 Wireless Headphones",
+      "description": "Industry-leading noise canceling headphones with exceptional sound quality, 30-hour battery life, and premium comfort for all-day listening.",
+      "price": "$349.99",
+      "oldPrice": "$399.99",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "Premium wireless headphones with noise cancellation",
+      "amazonUrl": "https://www.amazon.com/dp/B0BDHF7K2X?tag=techdeals-20",
+      "category": "electronics",
+      "rating": "4.8",
+      "reviewCount": 2341,
+      "discount": "12% OFF",
+      "badge": "Best Seller",
+      "features": ["Noise Canceling", "30hr Battery", "Premium Audio", "Touch Controls"]
+    },
+    {
+      "id": 3,
+      "title": "Corsair K95 RGB Platinum Mechanical Keyboard",
+      "description": "Premium mechanical gaming keyboard with Cherry MX switches, per-key RGB backlighting, dedicated macro keys, and aircraft-grade aluminum frame.",
+      "price": "$159.99",
+      "oldPrice": "$199.99",
+      "imageUrl": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "RGB mechanical gaming keyboard",
+      "amazonUrl": "https://www.amazon.com/dp/B071W16NVZ?tag=techdeals-20",
+      "category": "accessories",
+      "rating": "4.6",
+      "reviewCount": 856,
+      "discount": "20% OFF",
+      "badge": "Limited Time",
+      "features": ["Cherry MX Switches", "RGB Backlighting", "Macro Keys", "Aluminum Frame"]
+    },
+    {
+      "id": 4,
+      "title": "Breville Smart Coffee Maker Pro",
+      "description": "Intelligent coffee maker with precision brewing, customizable settings, built-in grinder, and smart connectivity for the perfect cup every time.",
+      "price": "$249.99",
+      "oldPrice": "$299.99",
+      "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "Smart coffee maker with digital display",
+      "amazonUrl": "https://www.amazon.com/dp/B07KQPB3XJ?tag=techdeals-20",
+      "category": "appliances",
+      "rating": "4.7",
+      "reviewCount": 432,
+      "discount": "17% OFF",
+      "badge": "Editor's Choice",
+      "features": ["Built-in Grinder", "Smart Connectivity", "Precision Brewing", "Programmable"]
+    },
+    {
+      "id": 5,
+      "title": "Logitech G Pro X Superlight Gaming Mouse",
+      "description": "Ultra-lightweight wireless gaming mouse with HERO 25K sensor, 70-hour battery life, and professional-grade performance for competitive gaming.",
+      "price": "$129.99",
+      "oldPrice": "$149.99",
+      "imageUrl": "https://images.unsplash.com/photo-1527814050087-3793815479db?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "Professional gaming mouse with RGB lighting",
+      "amazonUrl": "https://www.amazon.com/dp/B087LXCTFJ?tag=techdeals-20",
+      "category": "accessories",
+      "rating": "4.9",
+      "reviewCount": 1234,
+      "discount": "13% OFF",
+      "badge": "Pro Gaming",
+      "features": ["HERO 25K Sensor", "Ultra-lightweight", "70hr Battery", "Wireless"]
+    },
+    {
+      "id": 6,
+      "title": "Samsung 34\" Curved Gaming Monitor",
+      "description": "Ultra-wide curved gaming monitor with 144Hz refresh rate, 1ms response time, HDR support, and immersive 1000R curvature for ultimate gaming experience.",
+      "price": "$449.99",
+      "oldPrice": "$549.99",
+      "imageUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "Ultra-wide curved gaming monitor",
+      "amazonUrl": "https://www.amazon.com/dp/B08QHZ3X4V?tag=techdeals-20",
+      "category": "electronics",
+      "rating": "4.4",
+      "reviewCount": 678,
+      "discount": "18% OFF",
+      "badge": "New Arrival",
+      "features": ["144Hz Refresh", "1ms Response", "HDR Support", "Ultra-wide"]
+    },
+    {
+      "id": 7,
+      "title": "Apple iPad Pro 12.9\" M2 Chip",
+      "description": "Powerful tablet with M2 chip, Liquid Retina XDR display, Apple Pencil support, and all-day battery life for professional creativity and productivity.",
+      "price": "$1099.99",
+      "oldPrice": "$1199.99",
+      "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "iPad Pro with Apple Pencil",
+      "amazonUrl": "https://www.amazon.com/dp/B0BJLF2BRM?tag=techdeals-20",
+      "category": "electronics",
+      "rating": "4.8",
+      "reviewCount": 892,
+      "discount": "8% OFF",
+      "badge": "Premium",
+      "features": ["M2 Chip", "XDR Display", "Apple Pencil", "All-day Battery"]
+    },
+    {
+      "id": 8,
+      "title": "Alienware Aurora R15 Gaming Desktop",
+      "description": "High-end gaming desktop with 12th Gen Intel Core i9, 32GB RAM, RTX 4080, 1TB SSD, and liquid cooling for ultimate gaming performance.",
+      "price": "$2499.99",
+      "oldPrice": "$2899.99",
+      "imageUrl": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300",
+      "imageAlt": "Alienware gaming desktop with RGB lighting",
+      "amazonUrl": "https://www.amazon.com/dp/B09YQKX7K2?tag=techdeals-20",
+      "category": "gaming",
+      "rating": "4.7",
+      "reviewCount": 156,
+      "discount": "14% OFF",
+      "badge": "Flagship",
+      "features": ["Intel Core i9", "RTX 4080", "32GB RAM", "Liquid Cooling"]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "All Categories",
+      "slug": "all",
+      "description": "All available products"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Consumer electronics and gadgets"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Computers",
+      "slug": "gaming",
+      "description": "High-performance gaming PCs and components"
+    },
+    {
+      "id": 4,
+      "name": "Tech Accessories",
+      "slug": "accessories",
+      "description": "Keyboards, mice, and tech accessories"
+    },
+    {
+      "id": 5,
+      "name": "Home Appliances",
+      "slug": "appliances",
+      "description": "Smart home and kitchen appliances"
+    }
+  ]
+}
