@@ -79,10 +79,12 @@ export default function Header() {
           </div>
 
           <div className="flex items-center space-x-4">
-            <Badge className="bg-yellow-300 text-orange-800 font-semibold">
-              <Tag className="w-3 h-3 mr-1" />
-              Hot Deals
-            </Badge>
+            <Link href="/blog">
+              <Badge className="bg-yellow-300 text-orange-800 font-semibold">
+                <Tag className="w-3 h-3 mr-1" />
+                  Blog
+              </Badge>
+            </Link>
             <Button className="bg-white text-orange-600 hover:bg-yellow-100">
               Best Offers
             </Button>

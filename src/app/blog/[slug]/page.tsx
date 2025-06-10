@@ -98,7 +98,7 @@ export default async function PostPage({
             </BreadcrumbItem>
             <BreadcrumbSeparator />
             <BreadcrumbItem>
-              <BreadcrumbLink href={`/blog?category=${category.toLowerCase()}`} className="text-slate-700">
+              <BreadcrumbLink href={`/products/${category.toLowerCase()}`} className="text-slate-700">
                 {category}
               </BreadcrumbLink>
             </BreadcrumbItem>
@@ -126,7 +126,7 @@ export default async function PostPage({
           <img
             src={featuredImage}
             alt={post.relatedProducts[0]?.['img-alt'] || post.title}
-            className="w-full h-96 object-cover rounded-lg mb-8"
+            className="rounded-lg mb-8"
           />
           <div
             className="prose max-w-none text-neutral-800"
