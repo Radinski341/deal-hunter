@@ -34,3 +34,19 @@ export interface ProductFilters {
   rating?: string;
   search?: string;
 }
+
+export interface Post {
+  title: string;
+  slug: string;
+  content: string;
+  author: string;
+  date: string;
+  categories: string[];
+  tags: string[];
+  relatedProducts: Product[];
+  metaTitle: string;
+  metaDescription: string;
+  ogTitle: string;
+  ogDescription: string;
+  keywords: string[];
+}

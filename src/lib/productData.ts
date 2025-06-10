@@ -116,6 +116,7 @@ export async function getAllProductUrls() {
   return urls;
 }
 
+
 export async function getFeaturedProducts() {
   const featuredPath = path.join(dataDir, 'featured.json');
   const fileContent = fs.readFileSync(featuredPath, 'utf-8');
